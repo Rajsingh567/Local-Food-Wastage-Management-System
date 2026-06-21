@@ -1,0 +1,301 @@
+Food_ID,Food_Name,Quantity,Expiry_Date,Provider_ID,Provider_Type,Location,Food_Type,Meal_Type
+1,Dal,46,2026-07-02,1,Restaurant,Mumbai,Vegetarian,Breakfast
+2,Dal,98,2026-07-05,19,Catering Service,Lucknow,Vegetarian,Lunch
+3,Rice,81,2026-06-21,18,Catering Service,Delhi,Vegetarian,Lunch
+4,Soup,87,2026-06-19,14,Supermarket,Kolkata,Vegetarian,Lunch
+5,Fruit Salad,100,2026-06-29,40,Restaurant,Bangalore,Non-Vegetarian,Lunch
+6,Egg Curry,97,2026-07-04,55,Restaurant,Kolkata,Vegan,Breakfast
+7,Bread Loaves,15,2026-06-20,5,Grocery Store,Kolkata,Vegan,Breakfast
+8,Vegetable Wrap,88,2026-06-24,10,Restaurant,Kolkata,Non-Vegetarian,Snacks
+9,Chapati,77,2026-06-21,6,Restaurant,Delhi,Vegan,Lunch
+10,Bread Loaves,89,2026-06-18,57,Restaurant,Delhi,Vegan,Breakfast
+11,Dal,46,2026-07-03,38,Restaurant,Mumbai,Vegan,Snacks
+12,Chapati,66,2026-06-26,58,Bakery,Jaipur,Vegan,Dinner
+13,Pasta,64,2026-06-15,16,Grocery Store,Pune,Vegetarian,Snacks
+14,Salad Bowl,92,2026-06-26,52,Supermarket,Delhi,Vegetarian,Snacks
+15,Pulao,85,2026-06-20,41,Supermarket,Kolkata,Non-Vegetarian,Snacks
+16,Pasta,95,2026-06-29,34,Restaurant,Kolkata,Vegan,Dinner
+17,Sandwiches,13,2026-06-25,32,Grocery Store,Hyderabad,Non-Vegetarian,Snacks
+18,Salad Bowl,74,2026-06-22,42,Supermarket,Pune,Vegan,Snacks
+19,Rice,65,2026-06-25,13,Bakery,Pune,Non-Vegetarian,Lunch
+20,Vegetable Biryani,47,2026-06-30,44,Restaurant,Bangalore,Non-Vegetarian,Dinner
+21,Egg Curry,91,2026-06-23,8,Catering Service,Delhi,Non-Vegetarian,Breakfast
+22,Vegetable Biryani,12,2026-07-01,47,Supermarket,Pune,Vegetarian,Snacks
+23,Khichdi,99,2026-06-30,39,Grocery Store,Kolkata,Vegetarian,Snacks
+24,Soup,59,2026-07-05,32,Grocery Store,Hyderabad,Vegetarian,Breakfast
+25,Sandwiches,53,2026-06-24,13,Bakery,Pune,Vegan,Lunch
+26,Vegetable Wrap,49,2026-06-24,38,Restaurant,Mumbai,Non-Vegetarian,Dinner
+27,Khichdi,44,2026-06-28,42,Supermarket,Pune,Non-Vegetarian,Snacks
+28,Bread Loaves,34,2026-06-23,7,Bakery,Hyderabad,Vegetarian,Breakfast
+29,Milk Packets,17,2026-06-21,53,Bakery,Bangalore,Vegan,Lunch
+30,Vegetable Biryani,96,2026-06-21,13,Bakery,Pune,Non-Vegetarian,Dinner
+31,Pulao,78,2026-07-03,38,Restaurant,Mumbai,Non-Vegetarian,Breakfast
+32,Bread Loaves,31,2026-06-21,50,Grocery Store,Chennai,Non-Vegetarian,Lunch
+33,Rice,92,2026-06-24,37,Grocery Store,Hyderabad,Vegan,Lunch
+34,Dal,8,2026-06-23,13,Bakery,Pune,Vegan,Dinner
+35,Soup,15,2026-06-19,34,Restaurant,Kolkata,Vegetarian,Dinner
+36,Soup,58,2026-06-30,16,Grocery Store,Pune,Non-Vegetarian,Lunch
+37,Fruit Salad,63,2026-06-16,57,Restaurant,Delhi,Vegetarian,Breakfast
+38,Soup,11,2026-06-27,13,Bakery,Pune,Vegan,Breakfast
+39,Paneer Tikka,74,2026-06-19,42,Supermarket,Pune,Non-Vegetarian,Breakfast
+40,Mixed Vegetable Curry,73,2026-06-22,55,Restaurant,Kolkata,Non-Vegetarian,Lunch
+41,Idli Sambar,59,2026-07-01,18,Catering Service,Delhi,Non-Vegetarian,Dinner
+42,Pasta,41,2026-07-03,31,Restaurant,Pune,Vegan,Breakfast
+43,Mixed Vegetable Curry,99,2026-07-04,48,Supermarket,Ahmedabad,Vegetarian,Lunch
+44,Chapati,22,2026-06-23,60,Supermarket,Jaipur,Vegetarian,Lunch
+45,Chapati,22,2026-07-02,6,Restaurant,Delhi,Vegetarian,Snacks
+46,Egg Curry,62,2026-06-29,27,Catering Service,Jaipur,Non-Vegetarian,Breakfast
+47,Bread Loaves,92,2026-06-22,9,Restaurant,Mumbai,Non-Vegetarian,Snacks
+48,Sandwiches,35,2026-06-17,28,Grocery Store,Hyderabad,Vegan,Lunch
+49,Mixed Vegetable Curry,71,2026-06-28,2,Bakery,Delhi,Vegetarian,Lunch
+50,Paneer Tikka,11,2026-06-23,27,Catering Service,Jaipur,Vegetarian,Lunch
+51,Egg Curry,97,2026-06-24,29,Catering Service,Delhi,Vegan,Dinner
+52,Mixed Vegetable Curry,61,2026-06-29,37,Grocery Store,Hyderabad,Vegan,Dinner
+53,Fruit Salad,66,2026-06-27,26,Restaurant,Delhi,Vegan,Snacks
+54,Chapati,78,2026-06-29,18,Catering Service,Delhi,Vegetarian,Snacks
+55,Egg Curry,34,2026-06-25,28,Grocery Store,Hyderabad,Vegetarian,Breakfast
+56,Vegetable Wrap,77,2026-06-22,6,Restaurant,Delhi,Vegetarian,Dinner
+57,Dal,99,2026-07-03,34,Restaurant,Kolkata,Vegetarian,Snacks
+58,Salad Bowl,37,2026-07-01,2,Bakery,Delhi,Vegetarian,Snacks
+59,Soup,13,2026-07-05,34,Restaurant,Kolkata,Non-Vegetarian,Dinner
+60,Milk Packets,43,2026-06-28,50,Grocery Store,Chennai,Vegan,Breakfast
+61,Milk Packets,54,2026-06-20,52,Supermarket,Delhi,Vegan,Snacks
+62,Idli Sambar,99,2026-06-24,26,Restaurant,Delhi,Vegan,Breakfast
+63,Chapati,42,2026-06-29,43,Restaurant,Mumbai,Non-Vegetarian,Dinner
+64,Idli Sambar,67,2026-06-18,43,Restaurant,Mumbai,Vegetarian,Snacks
+65,Dal,26,2026-06-28,3,Grocery Store,Pune,Vegan,Dinner
+66,Soup,82,2026-07-04,35,Restaurant,Mumbai,Non-Vegetarian,Breakfast
+67,Fruit Salad,72,2026-06-21,19,Catering Service,Lucknow,Vegetarian,Dinner
+68,Soup,17,2026-06-29,2,Bakery,Delhi,Vegetarian,Lunch
+69,Bread Loaves,72,2026-06-20,36,Grocery Store,Pune,Vegetarian,Snacks
+70,Sandwiches,16,2026-06-17,26,Restaurant,Delhi,Non-Vegetarian,Breakfast
+71,Paneer Tikka,65,2026-07-05,33,Bakery,Ahmedabad,Vegan,Dinner
+72,Fruit Salad,55,2026-07-01,35,Restaurant,Mumbai,Non-Vegetarian,Snacks
+73,Salad Bowl,72,2026-06-22,56,Supermarket,Bangalore,Vegetarian,Snacks
+74,Egg Curry,67,2026-06-21,5,Grocery Store,Kolkata,Vegan,Lunch
+75,Fruit Salad,100,2026-06-17,49,Bakery,Lucknow,Non-Vegetarian,Dinner
+76,Fruit Salad,2,2026-07-01,28,Grocery Store,Hyderabad,Non-Vegetarian,Dinner
+77,Vegetable Wrap,86,2026-07-03,5,Grocery Store,Kolkata,Non-Vegetarian,Lunch
+78,Khichdi,63,2026-06-29,12,Grocery Store,Jaipur,Non-Vegetarian,Dinner
+79,Khichdi,50,2026-07-02,12,Grocery Store,Jaipur,Non-Vegetarian,Dinner
+80,Sandwiches,75,2026-06-21,26,Restaurant,Delhi,Non-Vegetarian,Lunch
+81,Dal,42,2026-06-28,4,Bakery,Kolkata,Vegan,Snacks
+82,Idli Sambar,86,2026-06-27,27,Catering Service,Jaipur,Vegan,Lunch
+83,Dal,18,2026-06-30,46,Catering Service,Lucknow,Vegan,Dinner
+84,Salad Bowl,14,2026-06-18,57,Restaurant,Delhi,Vegan,Snacks
+85,Paneer Tikka,54,2026-06-15,30,Bakery,Jaipur,Vegan,Lunch
+86,Soup,35,2026-06-17,39,Grocery Store,Kolkata,Non-Vegetarian,Snacks
+87,Chapati,44,2026-07-05,41,Supermarket,Kolkata,Vegan,Snacks
+88,Soup,71,2026-06-25,39,Grocery Store,Kolkata,Vegetarian,Breakfast
+89,Bread Loaves,31,2026-06-22,30,Bakery,Jaipur,Vegan,Breakfast
+90,Mixed Vegetable Curry,99,2026-06-28,11,Supermarket,Pune,Vegan,Breakfast
+91,Chicken Curry,90,2026-06-29,5,Grocery Store,Kolkata,Non-Vegetarian,Breakfast
+92,Milk Packets,9,2026-06-16,30,Bakery,Jaipur,Non-Vegetarian,Dinner
+93,Pasta,20,2026-06-26,13,Bakery,Pune,Vegetarian,Snacks
+94,Chicken Curry,23,2026-07-03,48,Supermarket,Ahmedabad,Vegetarian,Breakfast
+95,Idli Sambar,81,2026-07-04,7,Bakery,Hyderabad,Vegan,Lunch
+96,Vegetable Wrap,20,2026-06-30,9,Restaurant,Mumbai,Vegetarian,Snacks
+97,Fruit Salad,60,2026-07-05,24,Bakery,Jaipur,Non-Vegetarian,Breakfast
+98,Bread Loaves,88,2026-06-29,22,Restaurant,Hyderabad,Vegan,Lunch
+99,Salad Bowl,46,2026-06-17,38,Restaurant,Mumbai,Vegan,Dinner
+100,Pasta,90,2026-07-05,37,Grocery Store,Hyderabad,Non-Vegetarian,Snacks
+101,Vegetable Biryani,51,2026-06-24,50,Grocery Store,Chennai,Non-Vegetarian,Breakfast
+102,Idli Sambar,75,2026-06-22,46,Catering Service,Lucknow,Non-Vegetarian,Dinner
+103,Rice,86,2026-06-24,48,Supermarket,Ahmedabad,Non-Vegetarian,Dinner
+104,Vegetable Wrap,89,2026-06-15,57,Restaurant,Delhi,Vegan,Breakfast
+105,Soup,38,2026-07-04,36,Grocery Store,Pune,Vegetarian,Dinner
+106,Vegetable Biryani,81,2026-06-22,55,Restaurant,Kolkata,Non-Vegetarian,Lunch
+107,Mixed Vegetable Curry,82,2026-07-05,13,Bakery,Pune,Vegan,Breakfast
+108,Salad Bowl,6,2026-06-24,54,Grocery Store,Hyderabad,Vegan,Dinner
+109,Chapati,39,2026-06-19,18,Catering Service,Delhi,Non-Vegetarian,Snacks
+110,Vegetable Biryani,18,2026-06-20,56,Supermarket,Bangalore,Vegan,Dinner
+111,Pulao,36,2026-07-01,32,Grocery Store,Hyderabad,Vegetarian,Dinner
+112,Bread Loaves,97,2026-06-30,4,Bakery,Kolkata,Non-Vegetarian,Breakfast
+113,Chapati,20,2026-06-29,32,Grocery Store,Hyderabad,Vegetarian,Snacks
+114,Sweets Box,13,2026-07-02,1,Restaurant,Mumbai,Non-Vegetarian,Breakfast
+115,Khichdi,17,2026-06-23,1,Restaurant,Mumbai,Non-Vegetarian,Dinner
+116,Vegetable Wrap,50,2026-06-23,25,Restaurant,Chennai,Vegan,Dinner
+117,Sandwiches,62,2026-06-18,13,Bakery,Pune,Vegetarian,Dinner
+118,Sandwiches,84,2026-07-04,26,Restaurant,Delhi,Vegetarian,Snacks
+119,Pasta,16,2026-06-24,33,Bakery,Ahmedabad,Vegetarian,Breakfast
+120,Bread Loaves,65,2026-06-16,41,Supermarket,Kolkata,Vegetarian,Breakfast
+121,Khichdi,19,2026-06-22,36,Grocery Store,Pune,Non-Vegetarian,Snacks
+122,Khichdi,55,2026-06-26,52,Supermarket,Delhi,Vegan,Lunch
+123,Mixed Vegetable Curry,64,2026-06-28,13,Bakery,Pune,Vegan,Snacks
+124,Dal,90,2026-06-23,1,Restaurant,Mumbai,Non-Vegetarian,Lunch
+125,Salad Bowl,32,2026-06-29,33,Bakery,Ahmedabad,Non-Vegetarian,Breakfast
+126,Khichdi,84,2026-06-26,16,Grocery Store,Pune,Non-Vegetarian,Breakfast
+127,Fruit Salad,26,2026-06-27,44,Restaurant,Bangalore,Vegetarian,Snacks
+128,Vegetable Biryani,84,2026-06-17,53,Bakery,Bangalore,Vegan,Breakfast
+129,Milk Packets,33,2026-06-16,46,Catering Service,Lucknow,Vegetarian,Lunch
+130,Khichdi,28,2026-06-17,48,Supermarket,Ahmedabad,Vegan,Lunch
+131,Milk Packets,20,2026-06-22,10,Restaurant,Kolkata,Vegan,Breakfast
+132,Paneer Tikka,18,2026-06-23,29,Catering Service,Delhi,Vegan,Dinner
+133,Mixed Vegetable Curry,86,2026-06-20,8,Catering Service,Delhi,Vegetarian,Lunch
+134,Sweets Box,32,2026-06-15,8,Catering Service,Delhi,Vegan,Dinner
+135,Chicken Curry,35,2026-06-15,21,Supermarket,Chennai,Vegetarian,Lunch
+136,Pulao,16,2026-06-28,28,Grocery Store,Hyderabad,Vegan,Breakfast
+137,Salad Bowl,48,2026-06-30,44,Restaurant,Bangalore,Vegan,Breakfast
+138,Pulao,30,2026-06-29,32,Grocery Store,Hyderabad,Vegan,Breakfast
+139,Bread Loaves,60,2026-07-01,20,Bakery,Hyderabad,Vegan,Breakfast
+140,Soup,53,2026-06-16,18,Catering Service,Delhi,Non-Vegetarian,Breakfast
+141,Salad Bowl,11,2026-06-30,56,Supermarket,Bangalore,Vegetarian,Dinner
+142,Paneer Tikka,10,2026-07-04,54,Grocery Store,Hyderabad,Vegetarian,Dinner
+143,Vegetable Wrap,72,2026-07-04,55,Restaurant,Kolkata,Vegan,Dinner
+144,Egg Curry,69,2026-06-27,45,Catering Service,Delhi,Non-Vegetarian,Snacks
+145,Egg Curry,57,2026-07-01,15,Supermarket,Pune,Vegetarian,Breakfast
+146,Khichdi,94,2026-07-05,57,Restaurant,Delhi,Vegetarian,Snacks
+147,Sandwiches,54,2026-06-29,20,Bakery,Hyderabad,Non-Vegetarian,Snacks
+148,Pasta,95,2026-06-27,24,Bakery,Jaipur,Vegetarian,Dinner
+149,Milk Packets,87,2026-06-28,60,Supermarket,Jaipur,Non-Vegetarian,Dinner
+150,Soup,10,2026-06-19,18,Catering Service,Delhi,Vegetarian,Breakfast
+151,Pasta,14,2026-06-17,54,Grocery Store,Hyderabad,Vegan,Dinner
+152,Khichdi,9,2026-06-19,60,Supermarket,Jaipur,Vegan,Dinner
+153,Pasta,47,2026-06-18,38,Restaurant,Mumbai,Vegan,Snacks
+154,Bread Loaves,78,2026-06-16,7,Bakery,Hyderabad,Non-Vegetarian,Dinner
+155,Vegetable Wrap,66,2026-06-18,52,Supermarket,Delhi,Vegetarian,Lunch
+156,Sandwiches,15,2026-06-30,52,Supermarket,Delhi,Non-Vegetarian,Dinner
+157,Fruit Salad,75,2026-06-18,26,Restaurant,Delhi,Vegetarian,Snacks
+158,Egg Curry,80,2026-07-02,54,Grocery Store,Hyderabad,Vegan,Breakfast
+159,Fruit Salad,5,2026-07-04,21,Supermarket,Chennai,Vegetarian,Dinner
+160,Milk Packets,46,2026-06-24,26,Restaurant,Delhi,Vegetarian,Lunch
+161,Vegetable Wrap,86,2026-06-19,54,Grocery Store,Hyderabad,Non-Vegetarian,Breakfast
+162,Rice,13,2026-06-19,2,Bakery,Delhi,Vegan,Lunch
+163,Pasta,60,2026-06-27,20,Bakery,Hyderabad,Non-Vegetarian,Lunch
+164,Bread Loaves,94,2026-06-26,40,Restaurant,Bangalore,Non-Vegetarian,Breakfast
+165,Paneer Tikka,22,2026-06-16,52,Supermarket,Delhi,Vegan,Breakfast
+166,Fruit Salad,58,2026-06-17,51,Catering Service,Jaipur,Vegan,Snacks
+167,Egg Curry,58,2026-06-30,9,Restaurant,Mumbai,Non-Vegetarian,Dinner
+168,Pulao,16,2026-06-21,51,Catering Service,Jaipur,Non-Vegetarian,Snacks
+169,Bread Loaves,88,2026-06-18,55,Restaurant,Kolkata,Vegan,Snacks
+170,Bread Loaves,7,2026-07-01,30,Bakery,Jaipur,Vegetarian,Snacks
+171,Dal,2,2026-07-04,26,Restaurant,Delhi,Vegetarian,Dinner
+172,Paneer Tikka,99,2026-06-21,57,Restaurant,Delhi,Non-Vegetarian,Dinner
+173,Mixed Vegetable Curry,2,2026-06-25,44,Restaurant,Bangalore,Non-Vegetarian,Snacks
+174,Paneer Tikka,50,2026-06-20,18,Catering Service,Delhi,Vegan,Lunch
+175,Khichdi,87,2026-07-01,39,Grocery Store,Kolkata,Non-Vegetarian,Breakfast
+176,Dal,57,2026-06-27,58,Bakery,Jaipur,Vegetarian,Snacks
+177,Milk Packets,75,2026-06-17,6,Restaurant,Delhi,Non-Vegetarian,Snacks
+178,Pasta,39,2026-07-05,56,Supermarket,Bangalore,Vegetarian,Snacks
+179,Milk Packets,23,2026-06-15,48,Supermarket,Ahmedabad,Vegan,Snacks
+180,Chapati,57,2026-06-26,50,Grocery Store,Chennai,Vegetarian,Lunch
+181,Vegetable Wrap,53,2026-06-28,8,Catering Service,Delhi,Vegan,Breakfast
+182,Bread Loaves,97,2026-06-27,32,Grocery Store,Hyderabad,Non-Vegetarian,Lunch
+183,Chicken Curry,11,2026-06-25,21,Supermarket,Chennai,Vegan,Breakfast
+184,Pulao,26,2026-07-01,38,Restaurant,Mumbai,Non-Vegetarian,Dinner
+185,Paneer Tikka,32,2026-07-05,39,Grocery Store,Kolkata,Vegetarian,Lunch
+186,Vegetable Biryani,24,2026-06-23,2,Bakery,Delhi,Vegan,Lunch
+187,Chapati,24,2026-07-05,45,Catering Service,Delhi,Vegan,Snacks
+188,Vegetable Wrap,99,2026-06-29,12,Grocery Store,Jaipur,Vegan,Snacks
+189,Egg Curry,43,2026-07-03,50,Grocery Store,Chennai,Vegan,Dinner
+190,Salad Bowl,10,2026-06-19,44,Restaurant,Bangalore,Non-Vegetarian,Snacks
+191,Bread Loaves,37,2026-07-05,28,Grocery Store,Hyderabad,Vegan,Breakfast
+192,Pulao,11,2026-06-26,20,Bakery,Hyderabad,Non-Vegetarian,Snacks
+193,Dal,9,2026-06-29,22,Restaurant,Hyderabad,Non-Vegetarian,Dinner
+194,Chapati,80,2026-06-17,20,Bakery,Hyderabad,Vegan,Snacks
+195,Vegetable Wrap,72,2026-06-29,51,Catering Service,Jaipur,Vegan,Breakfast
+196,Vegetable Wrap,85,2026-06-29,48,Supermarket,Ahmedabad,Vegetarian,Dinner
+197,Soup,66,2026-07-04,54,Grocery Store,Hyderabad,Vegetarian,Breakfast
+198,Mixed Vegetable Curry,45,2026-06-29,44,Restaurant,Bangalore,Vegan,Breakfast
+199,Chicken Curry,7,2026-07-01,50,Grocery Store,Chennai,Vegetarian,Snacks
+200,Pulao,68,2026-06-29,23,Supermarket,Jaipur,Vegan,Lunch
+201,Sweets Box,38,2026-06-26,18,Catering Service,Delhi,Non-Vegetarian,Snacks
+202,Egg Curry,8,2026-06-25,42,Supermarket,Pune,Vegan,Dinner
+203,Milk Packets,14,2026-06-17,5,Grocery Store,Kolkata,Vegan,Snacks
+204,Fruit Salad,94,2026-06-24,35,Restaurant,Mumbai,Vegan,Lunch
+205,Chapati,76,2026-06-25,9,Restaurant,Mumbai,Vegan,Lunch
+206,Bread Loaves,85,2026-06-26,50,Grocery Store,Chennai,Vegan,Snacks
+207,Egg Curry,92,2026-06-19,18,Catering Service,Delhi,Vegetarian,Dinner
+208,Idli Sambar,84,2026-07-02,24,Bakery,Jaipur,Non-Vegetarian,Lunch
+209,Chapati,84,2026-07-01,11,Supermarket,Pune,Vegan,Snacks
+210,Sweets Box,4,2026-07-01,57,Restaurant,Delhi,Non-Vegetarian,Dinner
+211,Vegetable Biryani,45,2026-06-20,4,Bakery,Kolkata,Non-Vegetarian,Lunch
+212,Paneer Tikka,21,2026-06-22,35,Restaurant,Mumbai,Vegetarian,Dinner
+213,Pulao,100,2026-06-18,45,Catering Service,Delhi,Vegan,Breakfast
+214,Egg Curry,18,2026-06-25,8,Catering Service,Delhi,Vegan,Snacks
+215,Chicken Curry,25,2026-06-19,16,Grocery Store,Pune,Vegan,Lunch
+216,Dal,54,2026-06-29,49,Bakery,Lucknow,Non-Vegetarian,Lunch
+217,Egg Curry,38,2026-06-29,54,Grocery Store,Hyderabad,Vegan,Snacks
+218,Khichdi,32,2026-06-22,6,Restaurant,Delhi,Non-Vegetarian,Snacks
+219,Sweets Box,88,2026-06-21,50,Grocery Store,Chennai,Vegan,Snacks
+220,Bread Loaves,50,2026-06-29,45,Catering Service,Delhi,Vegan,Snacks
+221,Vegetable Biryani,79,2026-06-20,46,Catering Service,Lucknow,Vegetarian,Dinner
+222,Soup,49,2026-06-16,25,Restaurant,Chennai,Vegan,Breakfast
+223,Mixed Vegetable Curry,38,2026-07-01,3,Grocery Store,Pune,Vegetarian,Lunch
+224,Salad Bowl,67,2026-06-23,2,Bakery,Delhi,Vegetarian,Snacks
+225,Sandwiches,59,2026-06-17,57,Restaurant,Delhi,Non-Vegetarian,Breakfast
+226,Dal,52,2026-06-28,44,Restaurant,Bangalore,Vegan,Dinner
+227,Idli Sambar,12,2026-06-22,51,Catering Service,Jaipur,Non-Vegetarian,Lunch
+228,Milk Packets,14,2026-06-15,7,Bakery,Hyderabad,Vegan,Dinner
+229,Paneer Tikka,6,2026-06-19,26,Restaurant,Delhi,Non-Vegetarian,Snacks
+230,Soup,59,2026-06-19,24,Bakery,Jaipur,Vegan,Breakfast
+231,Rice,34,2026-06-17,16,Grocery Store,Pune,Vegetarian,Lunch
+232,Egg Curry,69,2026-07-02,39,Grocery Store,Kolkata,Non-Vegetarian,Breakfast
+233,Sandwiches,40,2026-06-24,20,Bakery,Hyderabad,Vegetarian,Breakfast
+234,Pasta,83,2026-06-22,20,Bakery,Hyderabad,Vegan,Snacks
+235,Mixed Vegetable Curry,65,2026-06-17,40,Restaurant,Bangalore,Vegan,Breakfast
+236,Pulao,75,2026-07-05,59,Supermarket,Mumbai,Vegetarian,Lunch
+237,Pasta,2,2026-06-24,19,Catering Service,Lucknow,Vegan,Dinner
+238,Vegetable Wrap,55,2026-06-22,6,Restaurant,Delhi,Vegetarian,Breakfast
+239,Sweets Box,10,2026-07-01,25,Restaurant,Chennai,Vegan,Breakfast
+240,Soup,7,2026-06-27,38,Restaurant,Mumbai,Vegan,Snacks
+241,Fruit Salad,97,2026-06-26,55,Restaurant,Kolkata,Vegetarian,Dinner
+242,Sweets Box,32,2026-06-17,33,Bakery,Ahmedabad,Vegan,Breakfast
+243,Milk Packets,19,2026-07-03,1,Restaurant,Mumbai,Vegetarian,Dinner
+244,Milk Packets,84,2026-07-02,22,Restaurant,Hyderabad,Vegetarian,Snacks
+245,Chicken Curry,19,2026-06-30,60,Supermarket,Jaipur,Vegetarian,Snacks
+246,Bread Loaves,27,2026-06-16,25,Restaurant,Chennai,Vegetarian,Lunch
+247,Milk Packets,41,2026-06-16,7,Bakery,Hyderabad,Vegan,Snacks
+248,Soup,34,2026-07-02,59,Supermarket,Mumbai,Vegetarian,Lunch
+249,Sweets Box,8,2026-06-24,8,Catering Service,Delhi,Vegan,Dinner
+250,Mixed Vegetable Curry,49,2026-06-23,15,Supermarket,Pune,Non-Vegetarian,Snacks
+251,Idli Sambar,45,2026-06-29,40,Restaurant,Bangalore,Vegetarian,Snacks
+252,Sweets Box,68,2026-06-30,5,Grocery Store,Kolkata,Non-Vegetarian,Breakfast
+253,Chapati,57,2026-06-28,50,Grocery Store,Chennai,Vegan,Lunch
+254,Bread Loaves,43,2026-07-02,55,Restaurant,Kolkata,Vegetarian,Breakfast
+255,Bread Loaves,41,2026-06-25,26,Restaurant,Delhi,Non-Vegetarian,Snacks
+256,Salad Bowl,46,2026-06-20,60,Supermarket,Jaipur,Non-Vegetarian,Breakfast
+257,Egg Curry,57,2026-06-26,55,Restaurant,Kolkata,Non-Vegetarian,Breakfast
+258,Idli Sambar,48,2026-06-17,46,Catering Service,Lucknow,Vegan,Lunch
+259,Paneer Tikka,79,2026-06-15,8,Catering Service,Delhi,Vegan,Snacks
+260,Paneer Tikka,10,2026-06-16,14,Supermarket,Kolkata,Vegetarian,Dinner
+261,Idli Sambar,74,2026-06-26,40,Restaurant,Bangalore,Vegetarian,Lunch
+262,Sweets Box,49,2026-06-29,10,Restaurant,Kolkata,Non-Vegetarian,Breakfast
+263,Paneer Tikka,69,2026-07-03,22,Restaurant,Hyderabad,Non-Vegetarian,Snacks
+264,Fruit Salad,33,2026-06-25,59,Supermarket,Mumbai,Vegetarian,Breakfast
+265,Soup,68,2026-06-20,44,Restaurant,Bangalore,Non-Vegetarian,Breakfast
+266,Fruit Salad,92,2026-06-23,4,Bakery,Kolkata,Non-Vegetarian,Lunch
+267,Bread Loaves,90,2026-07-04,50,Grocery Store,Chennai,Non-Vegetarian,Lunch
+268,Paneer Tikka,11,2026-06-18,47,Supermarket,Pune,Non-Vegetarian,Lunch
+269,Chapati,89,2026-06-29,45,Catering Service,Delhi,Non-Vegetarian,Dinner
+270,Khichdi,71,2026-06-17,50,Grocery Store,Chennai,Non-Vegetarian,Dinner
+271,Chicken Curry,48,2026-06-20,8,Catering Service,Delhi,Vegan,Lunch
+272,Vegetable Biryani,19,2026-06-18,1,Restaurant,Mumbai,Vegetarian,Snacks
+273,Sweets Box,72,2026-06-15,25,Restaurant,Chennai,Vegan,Dinner
+274,Khichdi,18,2026-06-29,11,Supermarket,Pune,Vegan,Breakfast
+275,Bread Loaves,52,2026-06-17,9,Restaurant,Mumbai,Vegan,Snacks
+276,Pasta,100,2026-07-01,53,Bakery,Bangalore,Non-Vegetarian,Breakfast
+277,Milk Packets,84,2026-06-19,2,Bakery,Delhi,Vegetarian,Snacks
+278,Pulao,46,2026-06-29,53,Bakery,Bangalore,Vegetarian,Lunch
+279,Pasta,66,2026-06-19,58,Bakery,Jaipur,Vegetarian,Breakfast
+280,Paneer Tikka,40,2026-07-01,51,Catering Service,Jaipur,Vegetarian,Lunch
+281,Sandwiches,46,2026-06-25,48,Supermarket,Ahmedabad,Vegan,Dinner
+282,Fruit Salad,27,2026-06-17,27,Catering Service,Jaipur,Vegan,Dinner
+283,Bread Loaves,80,2026-06-19,32,Grocery Store,Hyderabad,Vegan,Breakfast
+284,Chicken Curry,77,2026-07-01,25,Restaurant,Chennai,Vegan,Lunch
+285,Egg Curry,94,2026-06-20,11,Supermarket,Pune,Vegan,Dinner
+286,Dal,5,2026-07-03,2,Bakery,Delhi,Vegetarian,Breakfast
+287,Vegetable Wrap,35,2026-07-05,8,Catering Service,Delhi,Vegan,Lunch
+288,Pasta,81,2026-07-03,41,Supermarket,Kolkata,Vegan,Breakfast
+289,Khichdi,39,2026-06-30,24,Bakery,Jaipur,Vegan,Dinner
+290,Sandwiches,89,2026-06-30,47,Supermarket,Pune,Non-Vegetarian,Dinner
+291,Chapati,90,2026-06-29,5,Grocery Store,Kolkata,Vegetarian,Lunch
+292,Pasta,63,2026-06-29,5,Grocery Store,Kolkata,Non-Vegetarian,Lunch
+293,Egg Curry,20,2026-06-25,49,Bakery,Lucknow,Non-Vegetarian,Dinner
+294,Idli Sambar,18,2026-06-26,30,Bakery,Jaipur,Non-Vegetarian,Breakfast
+295,Sandwiches,61,2026-06-25,1,Restaurant,Mumbai,Vegetarian,Dinner
+296,Sandwiches,20,2026-06-29,29,Catering Service,Delhi,Vegetarian,Breakfast
+297,Idli Sambar,80,2026-06-24,14,Supermarket,Kolkata,Non-Vegetarian,Lunch
+298,Milk Packets,75,2026-06-20,2,Bakery,Delhi,Vegan,Dinner
+299,Chicken Curry,65,2026-06-21,13,Bakery,Pune,Vegan,Snacks
+300,Bread Loaves,65,2026-06-30,53,Bakery,Bangalore,Vegetarian,Breakfast
